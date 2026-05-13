@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://example.com/",  // deploy 后再改
+  website: "https://portfolio-chi-gules-ou4h6oqo8f.vercel.app/",
   author: "Michael Dong",
   profile: "https://github.com/MichaelDong0819",
   desc: "CS & Data Science @ University of Sydney. Systems, databases, and building things that actually run.",
